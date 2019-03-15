@@ -12,7 +12,21 @@ p {
   font-family: sans-serif;
 }
 
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.author {
+  width: 75%;
+  fond-style: italic;
+  font-weight: bold;
+}
+
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.important {
+  color: red;
 }
